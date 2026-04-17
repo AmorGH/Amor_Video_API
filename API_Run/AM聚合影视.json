@@ -1,0 +1,12 @@
+{
+  "urls": [
+    {"name":"001 - 聚合影视",
+    "url":"https://gh-proxy.org/https://github.com/AmorGH/Amor_Video_API/blob/main/API_File/001%20-%20%E8%81%9A%E5%90%88%E5%BD%B1%E8%A7%86.txt"},
+    {"name":"002 - 聚合影视",
+    "url":"https://gh-proxy.org/https://github.com/AmorGH/Amor_Video_API/blob/main/API_File/002%20-%20%E8%81%9A%E5%90%88%E5%BD%B1%E8%A7%86.txt"},
+    {"name":"003_044 - 聚合影视",
+    "url":"https://gh-proxy.org/https://github.com/AmorGH/Amor_Video_API/blob/main/API_File/003_044%20-%20%E8%81%9A%E5%90%88%E5%BD%B1%E8%A7%86.json"},
+    {"name":"999 - 聚合影视",
+    "url":"https://gh-proxy.org/https://github.com/AmorGH/Amor_Video_API/blob/main/API_File/999%20-%20%E8%81%9A%E5%90%88%E5%BD%B1%E8%A7%86.txt"}
+  ]
+}
